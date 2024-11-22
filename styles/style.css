@@ -86,14 +86,13 @@ ol {
     align-items: flex-end;
     width: 1140px;
     column-gap: 30px;
-    padding-top: 3px;
+    padding-top: 2px;
 }
 
 .title {
     font: 75px/0.94 Oswald, sans-serif, bold;
     text-transform: uppercase;
     align-self: flex-start;
-    margin-top: 0px;
 }
 
 .content__accent {
