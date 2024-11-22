@@ -17,6 +17,7 @@ html {
     font-size: 18px;
     background-color: #1b1919;
     display: flex;
+    
 }
 
 h1,
@@ -85,6 +86,7 @@ ol {
     align-items: flex-end;
     width: 1140px;
     column-gap: 30px;
+    padding-top: 3px;
 }
 
 .title {
@@ -211,7 +213,7 @@ ol {
     position: relative;
     width: 711px;
     height: 386px;
-    margin-bottom: 16px;
+    padding-bottom: 16px;
 }
 
 .search-form {
