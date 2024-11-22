@@ -213,7 +213,7 @@ ol {
     position: relative;
     width: 711px;
     height: 386px;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
 }
 
 .search-form {
@@ -306,7 +306,7 @@ ol {
     width: 225px;
     font-family: inherit;
     font-size: inherit;
-    line-height: 1.3;
+    line-height: 23px;
     color: currentColor;
     background-color: transparent;
     border-width: 1px 0px;
