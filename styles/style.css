@@ -135,7 +135,7 @@ ol {
     display: flex;
     flex-direction: column;
     align-self: flex-end;
-    row-gap: 22px;
+    row-gap: 23px;
     width: 100%;
     height: 100%;
 }
